@@ -10,8 +10,8 @@
 - Регуляризация: L2 (Ridge)
 
 - **Методы решения:** 
-    1) Аналитическое решение через SVD
-    2) Градиентный спуск и его вариации:
+    - Аналитическое решение через SVD
+    - Градиентный спуск и его вариации:
        - Vanilla Gradient Descent
        - Stochastic Gradient Descent
        - Stochastic Average Gradient
