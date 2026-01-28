@@ -10,13 +10,13 @@
 - Регуляризация: L2 (Ridge)
 
 - **Методы решения:** 
-  1) Аналитическое решение через SVD
-  2) Градиентный спуск и его вариации:
-     - Vanilla Gradient Descent
-     - Stochastic Gradient Descent
-     - Stochastic Average Gradient
-     - Momentum
-     - Adam
+    1) Аналитическое решение через SVD
+    2) Градиентный спуск и его вариации:
+       - Vanilla Gradient Descent
+       - Stochastic Gradient Descent
+       - Stochastic Average Gradient
+       - Momentum
+       - Adam
 
 - **Расписания learning rate:**
   - Constant
